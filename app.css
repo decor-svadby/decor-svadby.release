@@ -38,7 +38,11 @@ a, p, h1, h2, h3 {
   display: inline-block;
   padding: 1rem 2rem;
   color: white;
-  background-color: #98669B; }
+  background-color: #98669B;
+  -webkit-align-self: center;
+      -ms-flex-item-align: center;
+              -ms-grid-row-align: center;
+          align-self: center; }
 
 /* line 1, /home/korvin/git/test1/src/sass/partials/_global.sass */
 [ng\:cloak], [ng-cloak], .ng-cloak {
