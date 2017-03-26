@@ -700,6 +700,10 @@ table.doc-list > tbody > tr > td, table.doc-list > thead > tr > th {
     margin-top: -2rem; } }
 
 /* line 6, /home/korvin/git/test1/src/sass/partials/_color.sass */
+.page.color h3 {
+  text-align: center; }
+
+/* line 8, /home/korvin/git/test1/src/sass/partials/_color.sass */
 .page.color h4 {
   line-height: 1.5;
   color: #98669B; }
