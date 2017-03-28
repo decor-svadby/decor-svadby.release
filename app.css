@@ -44,17 +44,27 @@ a, p, h1, h2, h3 {
               -ms-grid-row-align: center;
           align-self: center; }
 
-/* line 107, /home/korvin/git/test1/src/sass/app.sass */
+/* line 116, /home/korvin/git/test1/src/sass/app.sass */
 .email {
   width: 300;
   height: 30;
   font-size: 14pt;
   border-color: #98669B;
-  border-top-style: double;
-  -webkit-placeholder-color: #98669B;
-  -moz-placeholder-color: #98669B; }
+  border-top-style: double; }
+  /* line 107, /home/korvin/git/test1/src/sass/app.sass */
+  .email ::-webkit-input-placeholder {
+    color: #98669B; }
+  /* line 109, /home/korvin/git/test1/src/sass/app.sass */
+  .email :-moz-placeholder {
+    @conten {} }
+  /* line 111, /home/korvin/git/test1/src/sass/app.sass */
+  .email ::-moz-placeholder {
+    color: #98669B; }
+  /* line 113, /home/korvin/git/test1/src/sass/app.sass */
+  .email :-ms-input-placeholder {
+    color: #98669B; }
 
-/* line 118, /home/korvin/git/test1/src/sass/app.sass */
+/* line 125, /home/korvin/git/test1/src/sass/app.sass */
 .message {
   width: 300;
   height: 300;
@@ -62,11 +72,17 @@ a, p, h1, h2, h3 {
   border-color: #98669B;
   border-top-style: double;
   vertical-align: top; }
-  /* line 125, /home/korvin/git/test1/src/sass/app.sass */
-  .message -webkit-placeholder {
+  /* line 107, /home/korvin/git/test1/src/sass/app.sass */
+  .message ::-webkit-input-placeholder {
     color: #98669B; }
-  /* line 126, /home/korvin/git/test1/src/sass/app.sass */
-  .message -moz-placeholder {
+  /* line 109, /home/korvin/git/test1/src/sass/app.sass */
+  .message :-moz-placeholder {
+    @conten {} }
+  /* line 111, /home/korvin/git/test1/src/sass/app.sass */
+  .message ::-moz-placeholder {
+    color: #98669B; }
+  /* line 113, /home/korvin/git/test1/src/sass/app.sass */
+  .message :-ms-input-placeholder {
     color: #98669B; }
 
 /* line 1, /home/korvin/git/test1/src/sass/partials/_global.sass */
