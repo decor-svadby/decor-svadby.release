@@ -381,28 +381,78 @@ table.doc-list > tbody > tr > td, table.doc-list > thead > tr > th {
 
 /* line 2, /home/korvin/git/test1/src/sass/partials/_header.sass */
 .header-title {
-  width: 100%;
-  text-align: center;
   font-size: 0.8rem;
   color: #98669B;
   margin: 0.5rem 0 0.5rem; }
-  /* line 8, /home/korvin/git/test1/src/sass/partials/_header.sass */
-  .header-title span {
-    display: block; }
+  /* line 7, /home/korvin/git/test1/src/sass/partials/_header.sass */
+  .header-title .left.header-title {
+    width: 40%;
+    left: 0;
+    text-align: center;
+    position: absolute; }
+  /* line 12, /home/korvin/git/test1/src/sass/partials/_header.sass */
+  .header-title .center.header-title {
+    width: 20%;
+    left: 40%;
+    position: absolute;
+    text-align: center; }
+  /* line 18, /home/korvin/git/test1/src/sass/partials/_header.sass */
+  .header-title .right.header-title {
+    width: 40%;
+    left: 60%;
+    font-size: 0.8rem;
+    text-align: center;
+    position: absolute; }
+    /* line 25, /home/korvin/git/test1/src/sass/partials/_header.sass */
+    .header-title .right.header-title span {
+      display: block; }
+    /* line 28, /home/korvin/git/test1/src/sass/partials/_header.sass */
+    .header-title .right.header-title a {
+      text-decoration: none; }
+      /* line 30, /home/korvin/git/test1/src/sass/partials/_header.sass */
+      .header-title .right.header-title a:before {
+        content: '';
+        background-size: cover;
+        display: block;
+        position: absolute;
+        bottom: 0;
+        width: 2.5rem;
+        height: 3rem;
+        background: url("/images/list-title-left.svg") no-repeat top left;
+        display: inline-block;
+        height: 1.5rem;
+        margin-left: -50px; }
+      /* line 37, /home/korvin/git/test1/src/sass/partials/_header.sass */
+      .header-title .right.header-title a:after {
+        content: '';
+        background-size: cover;
+        display: block;
+        position: absolute;
+        bottom: 0;
+        width: 2.5rem;
+        height: 3rem;
+        background: url("/images/list-title-right.svg") no-repeat top right;
+        display: inline-block;
+        height: 1.5rem;
+        margin-right: 50px; }
+      /* line 44, /home/korvin/git/test1/src/sass/partials/_header.sass */
+      .header-title .right.header-title a:hover {
+        text-decoration: underline;
+        background-color: #d6b6d6; }
 
-/* line 11, /home/korvin/git/test1/src/sass/partials/_header.sass */
+/* line 50, /home/korvin/git/test1/src/sass/partials/_header.sass */
 .row.first-page-title {
   margin: 1rem auto 5rem; }
   @media (max-width: 992px) {
-    /* line 11, /home/korvin/git/test1/src/sass/partials/_header.sass */
+    /* line 50, /home/korvin/git/test1/src/sass/partials/_header.sass */
     .row.first-page-title {
       margin: 1rem auto 3rem; } }
   @media (max-width: 767px) {
-    /* line 11, /home/korvin/git/test1/src/sass/partials/_header.sass */
+    /* line 50, /home/korvin/git/test1/src/sass/partials/_header.sass */
     .row.first-page-title {
       margin: 2rem auto 2rem; } }
 
-/* line 19, /home/korvin/git/test1/src/sass/partials/_header.sass */
+/* line 58, /home/korvin/git/test1/src/sass/partials/_header.sass */
 .logo-title {
   margin-left: 25%;
   -webkit-box-sizing: border-box;
@@ -412,7 +462,7 @@ table.doc-list > tbody > tr > td, table.doc-list > thead > tr > th {
   padding-left: 2.08333%;
   padding-right: 2.08333%; }
   @media (max-width: 767px) {
-    /* line 19, /home/korvin/git/test1/src/sass/partials/_header.sass */
+    /* line 58, /home/korvin/git/test1/src/sass/partials/_header.sass */
     .logo-title {
       margin-left: 0%;
       -webkit-box-sizing: border-box;
@@ -422,7 +472,7 @@ table.doc-list > tbody > tr > td, table.doc-list > thead > tr > th {
       padding-left: 2.08333%;
       padding-right: 2.08333%; } }
 
-/* line 26, /home/korvin/git/test1/src/sass/partials/_header.sass */
+/* line 65, /home/korvin/git/test1/src/sass/partials/_header.sass */
 .first-page-about {
   -webkit-box-sizing: border-box;
   box-sizing: border-box;
@@ -442,12 +492,12 @@ table.doc-list > tbody > tr > td, table.doc-list > thead > tr > th {
   text-decoration: underline;
   font-weight: normal; }
   @media (max-width: 767px) {
-    /* line 26, /home/korvin/git/test1/src/sass/partials/_header.sass */
+    /* line 65, /home/korvin/git/test1/src/sass/partials/_header.sass */
     .first-page-about {
       position: relative;
       font-size: 1.2rem; } }
 
-/* line 41, /home/korvin/git/test1/src/sass/partials/_header.sass */
+/* line 80, /home/korvin/git/test1/src/sass/partials/_header.sass */
 .teaser-section {
   -webkit-box-sizing: border-box;
   box-sizing: border-box;
@@ -457,7 +507,7 @@ table.doc-list > tbody > tr > td, table.doc-list > thead > tr > th {
   padding-right: 2.08333%;
   text-align: center; }
   @media (max-width: 992px) {
-    /* line 41, /home/korvin/git/test1/src/sass/partials/_header.sass */
+    /* line 80, /home/korvin/git/test1/src/sass/partials/_header.sass */
     .teaser-section {
       -webkit-box-sizing: border-box;
       box-sizing: border-box;
@@ -466,7 +516,7 @@ table.doc-list > tbody > tr > td, table.doc-list > thead > tr > th {
       padding-left: 2.08333%;
       padding-right: 2.08333%; } }
   @media (max-width: 767px) {
-    /* line 41, /home/korvin/git/test1/src/sass/partials/_header.sass */
+    /* line 80, /home/korvin/git/test1/src/sass/partials/_header.sass */
     .teaser-section {
       -webkit-box-sizing: border-box;
       box-sizing: border-box;
@@ -474,51 +524,51 @@ table.doc-list > tbody > tr > td, table.doc-list > thead > tr > th {
       float: left;
       padding-left: 2.08333%;
       padding-right: 2.08333%; } }
-  /* line 48, /home/korvin/git/test1/src/sass/partials/_header.sass */
+  /* line 87, /home/korvin/git/test1/src/sass/partials/_header.sass */
   .teaser-section h2 {
     font-size: 1.2rem;
     font-weight: 100;
     margin-bottom: 0.2rem;
     color: #98669B; }
-  /* line 53, /home/korvin/git/test1/src/sass/partials/_header.sass */
+  /* line 92, /home/korvin/git/test1/src/sass/partials/_header.sass */
   .teaser-section .teaser-img-wrapper {
     overflow: hidden;
     margin: 1rem 2rem 2rem;
     padding-top: 0.5rem;
     border-top: 1px solid #98669B; }
-    /* line 58, /home/korvin/git/test1/src/sass/partials/_header.sass */
+    /* line 97, /home/korvin/git/test1/src/sass/partials/_header.sass */
     .teaser-section .teaser-img-wrapper img {
       width: 100%; }
-  /* line 60, /home/korvin/git/test1/src/sass/partials/_header.sass */
+  /* line 99, /home/korvin/git/test1/src/sass/partials/_header.sass */
   .teaser-section p {
     margin-top: 0.4;
     color: #98669B;
     text-align: center;
     font-size: 1.2rem; }
 
-/* line 66, /home/korvin/git/test1/src/sass/partials/_header.sass */
+/* line 105, /home/korvin/git/test1/src/sass/partials/_header.sass */
 .nav-client {
   display: block;
   overflow: hidden;
   height: 3.5rem; }
-  /* line 70, /home/korvin/git/test1/src/sass/partials/_header.sass */
+  /* line 109, /home/korvin/git/test1/src/sass/partials/_header.sass */
   .nav-client .left, .nav-client .right {
     height: inherit;
     font-size: 16px; }
-  /* line 73, /home/korvin/git/test1/src/sass/partials/_header.sass */
+  /* line 112, /home/korvin/git/test1/src/sass/partials/_header.sass */
   .nav-client .left {
     float: left; }
-  /* line 75, /home/korvin/git/test1/src/sass/partials/_header.sass */
+  /* line 114, /home/korvin/git/test1/src/sass/partials/_header.sass */
   .nav-client .right {
     float: right; }
-  /* line 77, /home/korvin/git/test1/src/sass/partials/_header.sass */
+  /* line 116, /home/korvin/git/test1/src/sass/partials/_header.sass */
   .nav-client .link-contact, .nav-client .link-about {
     position: relative;
     top: 2.2rem; }
-  /* line 80, /home/korvin/git/test1/src/sass/partials/_header.sass */
+  /* line 119, /home/korvin/git/test1/src/sass/partials/_header.sass */
   .nav-client .link-contact {
     padding: 2rem 0 0 2.5rem; }
-    /* line 82, /home/korvin/git/test1/src/sass/partials/_header.sass */
+    /* line 121, /home/korvin/git/test1/src/sass/partials/_header.sass */
     .nav-client .link-contact:before {
       content: '';
       background-size: cover;
@@ -529,10 +579,10 @@ table.doc-list > tbody > tr > td, table.doc-list > thead > tr > th {
       height: 3rem;
       left: 0;
       background: url(/images/contact.svg) no-repeat 0 0; }
-  /* line 86, /home/korvin/git/test1/src/sass/partials/_header.sass */
+  /* line 125, /home/korvin/git/test1/src/sass/partials/_header.sass */
   .nav-client .link-about {
     padding: 2rem 2.8rem 0 0; }
-    /* line 88, /home/korvin/git/test1/src/sass/partials/_header.sass */
+    /* line 127, /home/korvin/git/test1/src/sass/partials/_header.sass */
     .nav-client .link-about:after {
       content: '';
       background-size: cover;
