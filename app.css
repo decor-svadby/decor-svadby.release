@@ -890,7 +890,7 @@ table.doc-list > tbody > tr > td, table.doc-list > thead > tr > th {
         width: 6rem;
         height: 7rem;
         background: url("/images/style-subtitle-right.svg") no-repeat 0 0;
-        right: 0; } }
+        right: -10; } }
 
 /* line 19, /home/korvin/git/test1/src/sass/partials/_contact.sass */
 .page.contact h2 {
@@ -1187,7 +1187,7 @@ p {
         width: 6rem;
         height: 7rem;
         background: url("/images/style-subtitle-right.svg") no-repeat 0 0;
-        right: 0; } }
+        right: -20; } }
 
 /* line 18, /home/korvin/git/test1/src/sass/partials/_about.sass */
 .page.about h2 {
@@ -1226,7 +1226,8 @@ p {
 
 /* line 32, /home/korvin/git/test1/src/sass/partials/_about.sass */
 .page.about .desc {
-  text-align: justify; }
+  text-align: center;
+  background: url("/images/about-image.jpg") no-repeat 0 0; }
   @media (max-width: 767px) {
     /* line 32, /home/korvin/git/test1/src/sass/partials/_about.sass */
     .page.about .desc {
@@ -1258,7 +1259,7 @@ p {
       margin-left: 33.33333%; } }
 
 @media (max-width: 767px) {
-  /* line 43, /home/korvin/git/test1/src/sass/partials/_about.sass */
+  /* line 45, /home/korvin/git/test1/src/sass/partials/_about.sass */
   .page.about .row .col {
     -webkit-box-sizing: border-box;
     box-sizing: border-box;
@@ -1268,7 +1269,7 @@ p {
     padding-right: 2.08333%; } }
 
 @media (min-width: 767px) {
-  /* line 43, /home/korvin/git/test1/src/sass/partials/_about.sass */
+  /* line 45, /home/korvin/git/test1/src/sass/partials/_about.sass */
   .page.about .row .col {
     -webkit-box-sizing: border-box;
     box-sizing: border-box;
@@ -1278,7 +1279,7 @@ p {
     padding-right: 2.08333%; } }
 
 @media (min-width: 992px) {
-  /* line 43, /home/korvin/git/test1/src/sass/partials/_about.sass */
+  /* line 45, /home/korvin/git/test1/src/sass/partials/_about.sass */
   .page.about .row .col {
     -webkit-box-sizing: border-box;
     box-sizing: border-box;
@@ -1288,6 +1289,10 @@ p {
     padding-right: 2.08333%;
     margin-left: 8.33333%; } }
 
-/* line 51, /home/korvin/git/test1/src/sass/partials/_about.sass */
+/* line 54, /home/korvin/git/test1/src/sass/partials/_about.sass */
+.page.about img {
+  height: 55%; }
+
+/* line 56, /home/korvin/git/test1/src/sass/partials/_about.sass */
 .page.about p {
   line-height: 1.5; }
