@@ -170,7 +170,7 @@ table.doc-list > tbody > tr > td, table.doc-list > thead > tr > th {
   margin-bottom: 3rem; }
   /* line 94, /home/korvin/git/test1/src/sass/partials/_global.sass */
   .list .teaser-section h2, .page .teaser-section h2 {
-    font-size: 1rem; }
+    font-size: 1.1rem; }
 
 /* line 99, /home/korvin/git/test1/src/sass/partials/_global.sass */
 .list h1 span {
@@ -418,7 +418,6 @@ table.doc-list > tbody > tr > td, table.doc-list > thead > tr > th {
         bottom: 0;
         width: 2.5rem;
         height: 3rem;
-        background: url("/images/list-title-left.svg") no-repeat top left;
         display: inline-block;
         height: 1.5rem;
         margin-left: -50px; }
@@ -431,7 +430,6 @@ table.doc-list > tbody > tr > td, table.doc-list > thead > tr > th {
         bottom: 0;
         width: 2.5rem;
         height: 3rem;
-        background: url("/images/list-title-right.svg") no-repeat top right;
         display: inline-block;
         height: 1.5rem;
         margin-right: 50px; }
@@ -734,7 +732,8 @@ table.doc-list > tbody > tr > td, table.doc-list > thead > tr > th {
 
 /* line 52, /home/korvin/git/test1/src/sass/partials/_style.sass */
 .page.style p {
-  line-height: 1.5; }
+  line-height: 1.5;
+  font-size: 1.2rem; }
 
 @media (min-width: 767px) {
   /* line 3, /home/korvin/git/test1/src/sass/partials/_element.sass */
@@ -785,7 +784,8 @@ table.doc-list > tbody > tr > td, table.doc-list > thead > tr > th {
 
 /* line 18, /home/korvin/git/test1/src/sass/partials/_element.sass */
 .page.element p {
-  line-height: 1.5; }
+  line-height: 1.5;
+  font-size: 1.2rem; }
 
 @media (min-width: 767px) {
   /* line 2, /home/korvin/git/test1/src/sass/partials/_color.sass */
@@ -800,6 +800,11 @@ table.doc-list > tbody > tr > td, table.doc-list > thead > tr > th {
 .page.color h4 {
   line-height: 1.5;
   color: #98669B; }
+
+/* line 12, /home/korvin/git/test1/src/sass/partials/_color.sass */
+.page.color p {
+  font-size: 1.2rem;
+  line-height: 1.5; }
 
 @media (min-width: 767px) {
   /* line 3, /home/korvin/git/test1/src/sass/partials/_zone.sass */
@@ -850,7 +855,8 @@ table.doc-list > tbody > tr > td, table.doc-list > thead > tr > th {
 
 /* line 18, /home/korvin/git/test1/src/sass/partials/_zone.sass */
 .page.zone p {
-  line-height: 1.5; }
+  line-height: 1.5;
+  font-size: 1.2rem; }
 
 @media (min-width: 767px) {
   /* line 2, /home/korvin/git/test1/src/sass/partials/_contact.sass */
