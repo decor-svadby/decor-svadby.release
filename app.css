@@ -733,7 +733,8 @@ table.doc-list > tbody > tr > td, table.doc-list > thead > tr > th {
 /* line 52, /home/korvin/git/test1/src/sass/partials/_style.sass */
 .page.style p {
   line-height: 1.5;
-  font-size: 1.2rem; }
+  font-size: 1.2rem;
+  text-align: justify; }
 
 @media (min-width: 767px) {
   /* line 3, /home/korvin/git/test1/src/sass/partials/_element.sass */
@@ -785,7 +786,8 @@ table.doc-list > tbody > tr > td, table.doc-list > thead > tr > th {
 /* line 18, /home/korvin/git/test1/src/sass/partials/_element.sass */
 .page.element p {
   line-height: 1.5;
-  font-size: 1.2rem; }
+  font-size: 1.2rem;
+  text-align: justify; }
 
 @media (min-width: 767px) {
   /* line 2, /home/korvin/git/test1/src/sass/partials/_color.sass */
@@ -804,7 +806,8 @@ table.doc-list > tbody > tr > td, table.doc-list > thead > tr > th {
 /* line 12, /home/korvin/git/test1/src/sass/partials/_color.sass */
 .page.color p {
   font-size: 1.2rem;
-  line-height: 1.5; }
+  line-height: 1.5;
+  text-align: justify; }
 
 @media (min-width: 767px) {
   /* line 3, /home/korvin/git/test1/src/sass/partials/_zone.sass */
@@ -856,7 +859,8 @@ table.doc-list > tbody > tr > td, table.doc-list > thead > tr > th {
 /* line 18, /home/korvin/git/test1/src/sass/partials/_zone.sass */
 .page.zone p {
   line-height: 1.5;
-  font-size: 1.2rem; }
+  font-size: 1.2rem;
+  text-align: justify; }
 
 @media (min-width: 767px) {
   /* line 2, /home/korvin/git/test1/src/sass/partials/_contact.sass */
