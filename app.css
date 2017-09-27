@@ -1,39 +1,39 @@
 @media (max-width: 1200px) {
-  /* line 41, /home/korvin/git/test1/src/sass/app.sass */
+  /* line 41, /home/korvin/git/decor-svadby/test1/src/sass/app.sass */
   html {
     font-size: 90%; } }
 
 @media (max-width: 992px) {
-  /* line 41, /home/korvin/git/test1/src/sass/app.sass */
+  /* line 41, /home/korvin/git/decor-svadby/test1/src/sass/app.sass */
   html {
     font-size: 80%; } }
 
-/* line 48, /home/korvin/git/test1/src/sass/app.sass */
+/* line 48, /home/korvin/git/decor-svadby/test1/src/sass/app.sass */
 body {
   height: 100%;
   font-size: 1rem;
   line-height: 1.2;
   font-family: 'Times New Roman', Times, serif;
   background-color: white; }
-  /* line 57, /home/korvin/git/test1/src/sass/app.sass */
+  /* line 57, /home/korvin/git/decor-svadby/test1/src/sass/app.sass */
   body .container {
     padding: 0 2%; }
 
-/* line 60, /home/korvin/git/test1/src/sass/app.sass */
+/* line 60, /home/korvin/git/decor-svadby/test1/src/sass/app.sass */
 a, p, h1, h2, h3 {
   color: #98669B; }
 
-/* line 63, /home/korvin/git/test1/src/sass/app.sass */
+/* line 63, /home/korvin/git/decor-svadby/test1/src/sass/app.sass */
 .clearfix {
   clear: both; }
 
-/* line 66, /home/korvin/git/test1/src/sass/app.sass */
+/* line 66, /home/korvin/git/decor-svadby/test1/src/sass/app.sass */
 .row {
   position: relative;
   overflow: hidden;
   z-index: 1000; }
 
-/* line 72, /home/korvin/git/test1/src/sass/app.sass */
+/* line 72, /home/korvin/git/decor-svadby/test1/src/sass/app.sass */
 .btn {
   display: inline-block;
   padding: 1rem 2rem;
@@ -44,27 +44,27 @@ a, p, h1, h2, h3 {
               -ms-grid-row-align: center;
           align-self: center; }
 
-/* line 116, /home/korvin/git/test1/src/sass/app.sass */
+/* line 116, /home/korvin/git/decor-svadby/test1/src/sass/app.sass */
 .email, .name, .phone {
   width: 300;
   height: 30;
   font-size: 14pt;
   border-color: #98669B;
   border-top-style: double; }
-  /* line 107, /home/korvin/git/test1/src/sass/app.sass */
+  /* line 107, /home/korvin/git/decor-svadby/test1/src/sass/app.sass */
   .email ::-webkit-input-placeholder, .name ::-webkit-input-placeholder, .phone ::-webkit-input-placeholder {
     color: #98669B; }
-  /* line 109, /home/korvin/git/test1/src/sass/app.sass */
+  /* line 109, /home/korvin/git/decor-svadby/test1/src/sass/app.sass */
   .email :-moz-placeholder, .name :-moz-placeholder, .phone :-moz-placeholder {
     @conten {} }
-  /* line 111, /home/korvin/git/test1/src/sass/app.sass */
+  /* line 111, /home/korvin/git/decor-svadby/test1/src/sass/app.sass */
   .email ::-moz-placeholder, .name ::-moz-placeholder, .phone ::-moz-placeholder {
     color: #98669B; }
-  /* line 113, /home/korvin/git/test1/src/sass/app.sass */
+  /* line 113, /home/korvin/git/decor-svadby/test1/src/sass/app.sass */
   .email :-ms-input-placeholder, .name :-ms-input-placeholder, .phone :-ms-input-placeholder {
     color: #98669B; }
 
-/* line 125, /home/korvin/git/test1/src/sass/app.sass */
+/* line 125, /home/korvin/git/decor-svadby/test1/src/sass/app.sass */
 .message {
   width: 300;
   height: 300;
@@ -72,111 +72,111 @@ a, p, h1, h2, h3 {
   border-color: #98669B;
   border-top-style: double;
   vertical-align: top; }
-  /* line 107, /home/korvin/git/test1/src/sass/app.sass */
+  /* line 107, /home/korvin/git/decor-svadby/test1/src/sass/app.sass */
   .message ::-webkit-input-placeholder {
     color: #98669B; }
-  /* line 109, /home/korvin/git/test1/src/sass/app.sass */
+  /* line 109, /home/korvin/git/decor-svadby/test1/src/sass/app.sass */
   .message :-moz-placeholder {
     @conten {} }
-  /* line 111, /home/korvin/git/test1/src/sass/app.sass */
+  /* line 111, /home/korvin/git/decor-svadby/test1/src/sass/app.sass */
   .message ::-moz-placeholder {
     color: #98669B; }
-  /* line 113, /home/korvin/git/test1/src/sass/app.sass */
+  /* line 113, /home/korvin/git/decor-svadby/test1/src/sass/app.sass */
   .message :-ms-input-placeholder {
     color: #98669B; }
 
-/* line 1, /home/korvin/git/test1/src/sass/partials/_global.sass */
+/* line 1, /home/korvin/git/decor-svadby/test1/src/sass/partials/_global.sass */
 [ng\:cloak], [ng-cloak], .ng-cloak {
   display: none !important; }
 
-/* line 5, /home/korvin/git/test1/src/sass/partials/_global.sass */
+/* line 5, /home/korvin/git/decor-svadby/test1/src/sass/partials/_global.sass */
 .margin-top-2rem {
   margin-top: 2rem; }
 
-/* line 8, /home/korvin/git/test1/src/sass/partials/_global.sass */
+/* line 8, /home/korvin/git/decor-svadby/test1/src/sass/partials/_global.sass */
 .margin-top-5rem {
   margin-top: 5rem; }
 
-/* line 11, /home/korvin/git/test1/src/sass/partials/_global.sass */
+/* line 11, /home/korvin/git/decor-svadby/test1/src/sass/partials/_global.sass */
 .margin-bottom-1rem {
   margin-bottom: 1rem; }
 
-/* line 14, /home/korvin/git/test1/src/sass/partials/_global.sass */
+/* line 14, /home/korvin/git/decor-svadby/test1/src/sass/partials/_global.sass */
 .margin-bottom-2rem {
   margin-bottom: 2rem !important; }
 
-/* line 17, /home/korvin/git/test1/src/sass/partials/_global.sass */
+/* line 17, /home/korvin/git/decor-svadby/test1/src/sass/partials/_global.sass */
 .margin-bottom-5rem {
   margin-bottom: 5rem !important; }
 
-/* line 20, /home/korvin/git/test1/src/sass/partials/_global.sass */
+/* line 20, /home/korvin/git/decor-svadby/test1/src/sass/partials/_global.sass */
 .link-no-decor {
   text-decoration: none;
   color: #98669B;
   display: block;
   font-size: 20px; }
-  /* line 25, /home/korvin/git/test1/src/sass/partials/_global.sass */
+  /* line 25, /home/korvin/git/decor-svadby/test1/src/sass/partials/_global.sass */
   .link-no-decor:first-child {
     font-size: 20px;
     text-decoration: underline; }
 
-/* line 30, /home/korvin/git/test1/src/sass/partials/_global.sass */
+/* line 30, /home/korvin/git/decor-svadby/test1/src/sass/partials/_global.sass */
 .nav-client {
   padding: 0 2.5%;
   padding-bottom: 0; }
 
-/* line 62, /home/korvin/git/test1/src/sass/partials/_global.sass */
+/* line 62, /home/korvin/git/decor-svadby/test1/src/sass/partials/_global.sass */
 table.doc-list > tbody > tr > td, table.doc-list > thead > tr > th {
   padding: 0.5rem 2rem; }
-  /* line 64, /home/korvin/git/test1/src/sass/partials/_global.sass */
+  /* line 64, /home/korvin/git/decor-svadby/test1/src/sass/partials/_global.sass */
   table.doc-list > tbody > tr > td .glyphicon-class, table.doc-list > thead > tr > th .glyphicon-class {
     opacity: 0.3;
     cursor: pointer; }
-    /* line 67, /home/korvin/git/test1/src/sass/partials/_global.sass */
+    /* line 67, /home/korvin/git/decor-svadby/test1/src/sass/partials/_global.sass */
     table.doc-list > tbody > tr > td .glyphicon-class:hover, table.doc-list > thead > tr > th .glyphicon-class:hover {
       opacity: 0.8; }
-  /* line 69, /home/korvin/git/test1/src/sass/partials/_global.sass */
+  /* line 69, /home/korvin/git/decor-svadby/test1/src/sass/partials/_global.sass */
   table.doc-list > tbody > tr > td:nth-child(3), table.doc-list > thead > tr > th:nth-child(3) {
     max-width: 15rem;
     overflow: hidden; }
-  /* line 72, /home/korvin/git/test1/src/sass/partials/_global.sass */
+  /* line 72, /home/korvin/git/decor-svadby/test1/src/sass/partials/_global.sass */
   table.doc-list > tbody > tr > td img, table.doc-list > thead > tr > th img {
     height: 10rem; }
 
-/* line 76, /home/korvin/git/test1/src/sass/partials/_global.sass */
+/* line 76, /home/korvin/git/decor-svadby/test1/src/sass/partials/_global.sass */
 .list h1, .list h2, .page h1, .page h2 {
   color: #98669B;
   text-align: center;
   margin-top: 0; }
-  /* line 81, /home/korvin/git/test1/src/sass/partials/_global.sass */
+  /* line 81, /home/korvin/git/decor-svadby/test1/src/sass/partials/_global.sass */
   .list h1 span, .list h2 span, .page h1 span, .page h2 span {
     display: inline-block;
     position: relative; }
     @media (max-width: 767px) {
-      /* line 81, /home/korvin/git/test1/src/sass/partials/_global.sass */
+      /* line 81, /home/korvin/git/decor-svadby/test1/src/sass/partials/_global.sass */
       .list h1 span, .list h2 span, .page h1 span, .page h2 span {
         padding: 0; } }
 
-/* line 86, /home/korvin/git/test1/src/sass/partials/_global.sass */
+/* line 86, /home/korvin/git/decor-svadby/test1/src/sass/partials/_global.sass */
 .list h1, .page h1 {
   font-size: 2.2rem; }
 
-/* line 88, /home/korvin/git/test1/src/sass/partials/_global.sass */
+/* line 88, /home/korvin/git/decor-svadby/test1/src/sass/partials/_global.sass */
 .list h2, .page h2 {
   font-size: 1.5rem; }
 
-/* line 92, /home/korvin/git/test1/src/sass/partials/_global.sass */
+/* line 92, /home/korvin/git/decor-svadby/test1/src/sass/partials/_global.sass */
 .list .teaser-section, .page .teaser-section {
   margin-bottom: 3rem; }
-  /* line 94, /home/korvin/git/test1/src/sass/partials/_global.sass */
+  /* line 94, /home/korvin/git/decor-svadby/test1/src/sass/partials/_global.sass */
   .list .teaser-section h2, .page .teaser-section h2 {
     font-size: 1.1rem; }
 
-/* line 99, /home/korvin/git/test1/src/sass/partials/_global.sass */
+/* line 99, /home/korvin/git/decor-svadby/test1/src/sass/partials/_global.sass */
 .list h1 span {
   padding: 0 4rem; }
   @media (min-width: 767px) {
-    /* line 102, /home/korvin/git/test1/src/sass/partials/_global.sass */
+    /* line 102, /home/korvin/git/decor-svadby/test1/src/sass/partials/_global.sass */
     .list h1 span:before {
       content: '';
       background-size: cover;
@@ -187,7 +187,7 @@ table.doc-list > tbody > tr > td, table.doc-list > thead > tr > th {
       height: 3rem;
       background: url("/images/list-title-left.svg") no-repeat 0 0;
       left: 0; }
-    /* line 106, /home/korvin/git/test1/src/sass/partials/_global.sass */
+    /* line 106, /home/korvin/git/decor-svadby/test1/src/sass/partials/_global.sass */
     .list h1 span:after {
       content: '';
       background-size: cover;
@@ -199,7 +199,7 @@ table.doc-list > tbody > tr > td, table.doc-list > thead > tr > th {
       background: url("/images/list-title-right.svg") no-repeat 0 0;
       right: 0; } }
 
-/* line 111, /home/korvin/git/test1/src/sass/partials/_global.sass */
+/* line 111, /home/korvin/git/decor-svadby/test1/src/sass/partials/_global.sass */
 .element-img-col {
   -webkit-box-sizing: border-box;
   box-sizing: border-box;
@@ -209,7 +209,7 @@ table.doc-list > tbody > tr > td, table.doc-list > thead > tr > th {
   padding-right: 1.08025%;
   padding-top: 1rem; }
   @media (max-width: 767px) {
-    /* line 111, /home/korvin/git/test1/src/sass/partials/_global.sass */
+    /* line 111, /home/korvin/git/decor-svadby/test1/src/sass/partials/_global.sass */
     .element-img-col {
       -webkit-box-sizing: border-box;
       box-sizing: border-box;
@@ -217,10 +217,10 @@ table.doc-list > tbody > tr > td, table.doc-list > thead > tr > th {
       float: left;
       padding-left: 1.08025%;
       padding-right: 1.08025%; } }
-  /* line 116, /home/korvin/git/test1/src/sass/partials/_global.sass */
+  /* line 116, /home/korvin/git/decor-svadby/test1/src/sass/partials/_global.sass */
   .element-img-col .container {
     padding: 0; }
-    /* line 119, /home/korvin/git/test1/src/sass/partials/_global.sass */
+    /* line 119, /home/korvin/git/decor-svadby/test1/src/sass/partials/_global.sass */
     .element-img-col .container .col {
       -webkit-box-sizing: border-box;
       box-sizing: border-box;
@@ -228,7 +228,7 @@ table.doc-list > tbody > tr > td, table.doc-list > thead > tr > th {
       float: left;
       padding-left: 2.08333%;
       padding-right: 2.08333%; }
-      /* line 122, /home/korvin/git/test1/src/sass/partials/_global.sass */
+      /* line 122, /home/korvin/git/decor-svadby/test1/src/sass/partials/_global.sass */
       .element-img-col .container .col .row .col2 {
         margin-left: 50%;
         -webkit-box-sizing: border-box;
@@ -237,14 +237,14 @@ table.doc-list > tbody > tr > td, table.doc-list > thead > tr > th {
         float: left;
         padding-left: 2.08333%;
         padding-right: 2.08333%; }
-    /* line 125, /home/korvin/git/test1/src/sass/partials/_global.sass */
+    /* line 125, /home/korvin/git/decor-svadby/test1/src/sass/partials/_global.sass */
     .element-img-col .container .img-wrapper {
       overflow: hidden; }
-      /* line 127, /home/korvin/git/test1/src/sass/partials/_global.sass */
+      /* line 127, /home/korvin/git/decor-svadby/test1/src/sass/partials/_global.sass */
       .element-img-col .container .img-wrapper img {
         width: 100%; }
 
-/* line 130, /home/korvin/git/test1/src/sass/partials/_global.sass */
+/* line 130, /home/korvin/git/decor-svadby/test1/src/sass/partials/_global.sass */
 .svg-icons-dispersion {
   position: absolute;
   z-index: -100;
@@ -252,12 +252,12 @@ table.doc-list > tbody > tr > td, table.doc-list > thead > tr > th {
   right: 0;
   bottom: 0;
   top: 0; }
-  /* line 137, /home/korvin/git/test1/src/sass/partials/_global.sass */
+  /* line 137, /home/korvin/git/decor-svadby/test1/src/sass/partials/_global.sass */
   .svg-icons-dispersion img {
     position: absolute;
     width: 4rem; }
 
-/* line 170, /home/korvin/git/test1/src/sass/partials/_global.sass */
+/* line 170, /home/korvin/git/decor-svadby/test1/src/sass/partials/_global.sass */
 .bill-modal {
   position: fixed;
   z-index: 10000;
@@ -274,11 +274,11 @@ table.doc-list > tbody > tr > td, table.doc-list > thead > tr > th {
           box-shadow: 0 15px 24px rgba(0, 0, 0, 0.22), 0 19px 76px rgba(0, 0, 0, 0.3);
   -webkit-transition: 0.5s ease-out;
   transition: 0.5s ease-out; }
-  /* line 176, /home/korvin/git/test1/src/sass/partials/_global.sass */
+  /* line 176, /home/korvin/git/decor-svadby/test1/src/sass/partials/_global.sass */
   .bill-modal.show {
     left: 10rem; }
   @media (max-width: 767px) {
-    /* line 170, /home/korvin/git/test1/src/sass/partials/_global.sass */
+    /* line 170, /home/korvin/git/decor-svadby/test1/src/sass/partials/_global.sass */
     .bill-modal {
       -webkit-box-sizing: border-box;
       box-sizing: border-box;
@@ -287,32 +287,32 @@ table.doc-list > tbody > tr > td, table.doc-list > thead > tr > th {
       padding-left: 2.08333%;
       padding-right: 2.08333%;
       top: 0; }
-      /* line 183, /home/korvin/git/test1/src/sass/partials/_global.sass */
+      /* line 183, /home/korvin/git/decor-svadby/test1/src/sass/partials/_global.sass */
       .bill-modal.show {
         left: 0; } }
-  /* line 186, /home/korvin/git/test1/src/sass/partials/_global.sass */
+  /* line 186, /home/korvin/git/decor-svadby/test1/src/sass/partials/_global.sass */
   .bill-modal h3 {
     text-align: center; }
-  /* line 191, /home/korvin/git/test1/src/sass/partials/_global.sass */
+  /* line 191, /home/korvin/git/decor-svadby/test1/src/sass/partials/_global.sass */
   .bill-modal table tbody tr:nth-child(odd) {
     background-color: gainsboro; }
-  /* line 193, /home/korvin/git/test1/src/sass/partials/_global.sass */
+  /* line 193, /home/korvin/git/decor-svadby/test1/src/sass/partials/_global.sass */
   .bill-modal table tbody tr:last-child {
     background: #ffffff; }
-    /* line 195, /home/korvin/git/test1/src/sass/partials/_global.sass */
+    /* line 195, /home/korvin/git/decor-svadby/test1/src/sass/partials/_global.sass */
     .bill-modal table tbody tr:last-child td {
       font-weight: bold; }
-  /* line 198, /home/korvin/git/test1/src/sass/partials/_global.sass */
+  /* line 198, /home/korvin/git/decor-svadby/test1/src/sass/partials/_global.sass */
   .bill-modal table tr td, .bill-modal table tr th {
     padding: 1rem;
     font-weight: 100; }
-  /* line 201, /home/korvin/git/test1/src/sass/partials/_global.sass */
+  /* line 201, /home/korvin/git/decor-svadby/test1/src/sass/partials/_global.sass */
   .bill-modal table tr th {
     font-weight: 600; }
-  /* line 203, /home/korvin/git/test1/src/sass/partials/_global.sass */
+  /* line 203, /home/korvin/git/decor-svadby/test1/src/sass/partials/_global.sass */
   .bill-modal table tr td:nth-child(2), .bill-modal table tr td:nth-child(3) {
     text-align: right; }
-  /* line 205, /home/korvin/git/test1/src/sass/partials/_global.sass */
+  /* line 205, /home/korvin/git/decor-svadby/test1/src/sass/partials/_global.sass */
   .bill-modal .close {
     position: absolute;
     top: 1rem;
@@ -321,38 +321,38 @@ table.doc-list > tbody > tr > td, table.doc-list > thead > tr > th {
     opacity: 0.5;
     font-size: 1.2rem;
     font-weight: bold; }
-    /* line 213, /home/korvin/git/test1/src/sass/partials/_global.sass */
+    /* line 213, /home/korvin/git/decor-svadby/test1/src/sass/partials/_global.sass */
     .bill-modal .close:hover {
       opacity: 1; }
 
-/* line 216, /home/korvin/git/test1/src/sass/partials/_global.sass */
+/* line 216, /home/korvin/git/decor-svadby/test1/src/sass/partials/_global.sass */
 .contact {
   text-align: center;
   color: #98669B; }
-  /* line 219, /home/korvin/git/test1/src/sass/partials/_global.sass */
+  /* line 219, /home/korvin/git/decor-svadby/test1/src/sass/partials/_global.sass */
   .contact h1 {
     margin-bottom: 8rem; }
-  /* line 221, /home/korvin/git/test1/src/sass/partials/_global.sass */
+  /* line 221, /home/korvin/git/decor-svadby/test1/src/sass/partials/_global.sass */
   .contact h3 {
     margin: 0;
     font-size: 2rem;
     font-weight: 500; }
-  /* line 225, /home/korvin/git/test1/src/sass/partials/_global.sass */
+  /* line 225, /home/korvin/git/decor-svadby/test1/src/sass/partials/_global.sass */
   .contact .phone-list {
     margin-top: 5rem;
     margin-bottom: 4rem; }
-    /* line 228, /home/korvin/git/test1/src/sass/partials/_global.sass */
+    /* line 228, /home/korvin/git/decor-svadby/test1/src/sass/partials/_global.sass */
     .contact .phone-list .phone {
       padding-bottom: 1rem; }
 
-/* line 233, /home/korvin/git/test1/src/sass/partials/_global.sass */
+/* line 233, /home/korvin/git/decor-svadby/test1/src/sass/partials/_global.sass */
 .page.style h1, .page.element h1, .page.zone h1 {
   text-align: center; }
   @media (min-width: 767px) {
-    /* line 235, /home/korvin/git/test1/src/sass/partials/_global.sass */
+    /* line 235, /home/korvin/git/decor-svadby/test1/src/sass/partials/_global.sass */
     .page.style h1 span, .page.element h1 span, .page.zone h1 span {
       padding: 2.3rem 3.8rem; }
-      /* line 238, /home/korvin/git/test1/src/sass/partials/_global.sass */
+      /* line 238, /home/korvin/git/decor-svadby/test1/src/sass/partials/_global.sass */
       .page.style h1 span:before, .page.element h1 span:before, .page.zone h1 span:before {
         content: '';
         background-size: cover;
@@ -365,7 +365,7 @@ table.doc-list > tbody > tr > td, table.doc-list > thead > tr > th {
         height: 7rem;
         background: url("/images/style-title-left.svg") no-repeat 0 0;
         left: 0; }
-      /* line 242, /home/korvin/git/test1/src/sass/partials/_global.sass */
+      /* line 242, /home/korvin/git/decor-svadby/test1/src/sass/partials/_global.sass */
       .page.style h1 span:after, .page.element h1 span:after, .page.zone h1 span:after {
         content: '';
         background-size: cover;
@@ -379,37 +379,37 @@ table.doc-list > tbody > tr > td, table.doc-list > thead > tr > th {
         background: url("/images/style-title-right.svg") no-repeat 0 0;
         right: 0; } }
 
-/* line 2, /home/korvin/git/test1/src/sass/partials/_header.sass */
+/* line 2, /home/korvin/git/decor-svadby/test1/src/sass/partials/_header.sass */
 .header-title {
   font-size: 0.8rem;
   color: #98669B;
   margin: 0.5rem 0 0.5rem; }
-  /* line 7, /home/korvin/git/test1/src/sass/partials/_header.sass */
+  /* line 7, /home/korvin/git/decor-svadby/test1/src/sass/partials/_header.sass */
   .header-title .left.header-title {
     width: 40%;
     left: 0;
     text-align: center;
     position: absolute; }
-  /* line 12, /home/korvin/git/test1/src/sass/partials/_header.sass */
+  /* line 12, /home/korvin/git/decor-svadby/test1/src/sass/partials/_header.sass */
   .header-title .center.header-title {
     width: 20%;
     left: 40%;
     position: absolute;
     text-align: center; }
-  /* line 18, /home/korvin/git/test1/src/sass/partials/_header.sass */
+  /* line 18, /home/korvin/git/decor-svadby/test1/src/sass/partials/_header.sass */
   .header-title .right.header-title {
     width: 40%;
     left: 60%;
     font-size: 0.8rem;
     text-align: center;
     position: absolute; }
-    /* line 25, /home/korvin/git/test1/src/sass/partials/_header.sass */
+    /* line 25, /home/korvin/git/decor-svadby/test1/src/sass/partials/_header.sass */
     .header-title .right.header-title span {
       display: block; }
-    /* line 28, /home/korvin/git/test1/src/sass/partials/_header.sass */
+    /* line 28, /home/korvin/git/decor-svadby/test1/src/sass/partials/_header.sass */
     .header-title .right.header-title a {
       text-decoration: none; }
-      /* line 30, /home/korvin/git/test1/src/sass/partials/_header.sass */
+      /* line 30, /home/korvin/git/decor-svadby/test1/src/sass/partials/_header.sass */
       .header-title .right.header-title a:before {
         content: '';
         background-size: cover;
@@ -421,7 +421,7 @@ table.doc-list > tbody > tr > td, table.doc-list > thead > tr > th {
         display: inline-block;
         height: 1.5rem;
         margin-left: -50px; }
-      /* line 37, /home/korvin/git/test1/src/sass/partials/_header.sass */
+      /* line 37, /home/korvin/git/decor-svadby/test1/src/sass/partials/_header.sass */
       .header-title .right.header-title a:after {
         content: '';
         background-size: cover;
@@ -433,24 +433,24 @@ table.doc-list > tbody > tr > td, table.doc-list > thead > tr > th {
         display: inline-block;
         height: 1.5rem;
         margin-right: 50px; }
-      /* line 44, /home/korvin/git/test1/src/sass/partials/_header.sass */
+      /* line 44, /home/korvin/git/decor-svadby/test1/src/sass/partials/_header.sass */
       .header-title .right.header-title a:hover {
         text-decoration: underline;
         background-color: #d6b6d6; }
 
-/* line 50, /home/korvin/git/test1/src/sass/partials/_header.sass */
+/* line 50, /home/korvin/git/decor-svadby/test1/src/sass/partials/_header.sass */
 .row.first-page-title {
   margin: 1rem auto 5rem; }
   @media (max-width: 992px) {
-    /* line 50, /home/korvin/git/test1/src/sass/partials/_header.sass */
+    /* line 50, /home/korvin/git/decor-svadby/test1/src/sass/partials/_header.sass */
     .row.first-page-title {
       margin: 1rem auto 3rem; } }
   @media (max-width: 767px) {
-    /* line 50, /home/korvin/git/test1/src/sass/partials/_header.sass */
+    /* line 50, /home/korvin/git/decor-svadby/test1/src/sass/partials/_header.sass */
     .row.first-page-title {
       margin: 2rem auto 2rem; } }
 
-/* line 58, /home/korvin/git/test1/src/sass/partials/_header.sass */
+/* line 58, /home/korvin/git/decor-svadby/test1/src/sass/partials/_header.sass */
 .logo-title {
   margin-left: 25%;
   -webkit-box-sizing: border-box;
@@ -460,7 +460,7 @@ table.doc-list > tbody > tr > td, table.doc-list > thead > tr > th {
   padding-left: 2.08333%;
   padding-right: 2.08333%; }
   @media (max-width: 767px) {
-    /* line 58, /home/korvin/git/test1/src/sass/partials/_header.sass */
+    /* line 58, /home/korvin/git/decor-svadby/test1/src/sass/partials/_header.sass */
     .logo-title {
       margin-left: 0%;
       -webkit-box-sizing: border-box;
@@ -470,7 +470,7 @@ table.doc-list > tbody > tr > td, table.doc-list > thead > tr > th {
       padding-left: 2.08333%;
       padding-right: 2.08333%; } }
 
-/* line 65, /home/korvin/git/test1/src/sass/partials/_header.sass */
+/* line 65, /home/korvin/git/decor-svadby/test1/src/sass/partials/_header.sass */
 .first-page-about {
   -webkit-box-sizing: border-box;
   box-sizing: border-box;
@@ -490,12 +490,12 @@ table.doc-list > tbody > tr > td, table.doc-list > thead > tr > th {
   text-decoration: underline;
   font-weight: normal; }
   @media (max-width: 767px) {
-    /* line 65, /home/korvin/git/test1/src/sass/partials/_header.sass */
+    /* line 65, /home/korvin/git/decor-svadby/test1/src/sass/partials/_header.sass */
     .first-page-about {
       position: relative;
       font-size: 1.2rem; } }
 
-/* line 80, /home/korvin/git/test1/src/sass/partials/_header.sass */
+/* line 80, /home/korvin/git/decor-svadby/test1/src/sass/partials/_header.sass */
 .teaser-section {
   -webkit-box-sizing: border-box;
   box-sizing: border-box;
@@ -505,7 +505,7 @@ table.doc-list > tbody > tr > td, table.doc-list > thead > tr > th {
   padding-right: 2.08333%;
   text-align: center; }
   @media (max-width: 992px) {
-    /* line 80, /home/korvin/git/test1/src/sass/partials/_header.sass */
+    /* line 80, /home/korvin/git/decor-svadby/test1/src/sass/partials/_header.sass */
     .teaser-section {
       -webkit-box-sizing: border-box;
       box-sizing: border-box;
@@ -514,7 +514,7 @@ table.doc-list > tbody > tr > td, table.doc-list > thead > tr > th {
       padding-left: 2.08333%;
       padding-right: 2.08333%; } }
   @media (max-width: 767px) {
-    /* line 80, /home/korvin/git/test1/src/sass/partials/_header.sass */
+    /* line 80, /home/korvin/git/decor-svadby/test1/src/sass/partials/_header.sass */
     .teaser-section {
       -webkit-box-sizing: border-box;
       box-sizing: border-box;
@@ -522,51 +522,51 @@ table.doc-list > tbody > tr > td, table.doc-list > thead > tr > th {
       float: left;
       padding-left: 2.08333%;
       padding-right: 2.08333%; } }
-  /* line 87, /home/korvin/git/test1/src/sass/partials/_header.sass */
+  /* line 87, /home/korvin/git/decor-svadby/test1/src/sass/partials/_header.sass */
   .teaser-section h2 {
     font-size: 1.2rem;
     font-weight: 100;
     margin-bottom: 0.2rem;
     color: #98669B; }
-  /* line 92, /home/korvin/git/test1/src/sass/partials/_header.sass */
+  /* line 92, /home/korvin/git/decor-svadby/test1/src/sass/partials/_header.sass */
   .teaser-section .teaser-img-wrapper {
     overflow: hidden;
     margin: 1rem 2rem 2rem;
     padding-top: 0.5rem;
     border-top: 1px solid #98669B; }
-    /* line 97, /home/korvin/git/test1/src/sass/partials/_header.sass */
+    /* line 97, /home/korvin/git/decor-svadby/test1/src/sass/partials/_header.sass */
     .teaser-section .teaser-img-wrapper img {
       width: 100%; }
-  /* line 99, /home/korvin/git/test1/src/sass/partials/_header.sass */
+  /* line 99, /home/korvin/git/decor-svadby/test1/src/sass/partials/_header.sass */
   .teaser-section p {
     margin-top: 0.4;
     color: #98669B;
     text-align: center;
     font-size: 1.2rem; }
 
-/* line 105, /home/korvin/git/test1/src/sass/partials/_header.sass */
+/* line 105, /home/korvin/git/decor-svadby/test1/src/sass/partials/_header.sass */
 .nav-client {
   display: block;
   overflow: hidden;
   height: 3.5rem; }
-  /* line 109, /home/korvin/git/test1/src/sass/partials/_header.sass */
+  /* line 109, /home/korvin/git/decor-svadby/test1/src/sass/partials/_header.sass */
   .nav-client .left, .nav-client .right {
     height: inherit;
     font-size: 16px; }
-  /* line 112, /home/korvin/git/test1/src/sass/partials/_header.sass */
+  /* line 112, /home/korvin/git/decor-svadby/test1/src/sass/partials/_header.sass */
   .nav-client .left {
     float: left; }
-  /* line 114, /home/korvin/git/test1/src/sass/partials/_header.sass */
+  /* line 114, /home/korvin/git/decor-svadby/test1/src/sass/partials/_header.sass */
   .nav-client .right {
     float: right; }
-  /* line 116, /home/korvin/git/test1/src/sass/partials/_header.sass */
+  /* line 116, /home/korvin/git/decor-svadby/test1/src/sass/partials/_header.sass */
   .nav-client .link-contact, .nav-client .link-about {
     position: relative;
     top: 2.2rem; }
-  /* line 119, /home/korvin/git/test1/src/sass/partials/_header.sass */
+  /* line 119, /home/korvin/git/decor-svadby/test1/src/sass/partials/_header.sass */
   .nav-client .link-contact {
     padding: 2rem 0 0 2.5rem; }
-    /* line 121, /home/korvin/git/test1/src/sass/partials/_header.sass */
+    /* line 121, /home/korvin/git/decor-svadby/test1/src/sass/partials/_header.sass */
     .nav-client .link-contact:before {
       content: '';
       background-size: cover;
@@ -577,10 +577,10 @@ table.doc-list > tbody > tr > td, table.doc-list > thead > tr > th {
       height: 3rem;
       left: 0;
       background: url(/images/contact.svg) no-repeat 0 0; }
-  /* line 125, /home/korvin/git/test1/src/sass/partials/_header.sass */
+  /* line 125, /home/korvin/git/decor-svadby/test1/src/sass/partials/_header.sass */
   .nav-client .link-about {
     padding: 2rem 2.8rem 0 0; }
-    /* line 127, /home/korvin/git/test1/src/sass/partials/_header.sass */
+    /* line 127, /home/korvin/git/decor-svadby/test1/src/sass/partials/_header.sass */
     .nav-client .link-about:after {
       content: '';
       background-size: cover;
@@ -593,18 +593,18 @@ table.doc-list > tbody > tr > td, table.doc-list > thead > tr > th {
       background: url(/images/about.svg) no-repeat 0 0; }
 
 @media (min-width: 767px) {
-  /* line 3, /home/korvin/git/test1/src/sass/partials/_style.sass */
+  /* line 3, /home/korvin/git/decor-svadby/test1/src/sass/partials/_style.sass */
   .page.style .container {
     margin-top: -2rem; } }
 
-/* line 6, /home/korvin/git/test1/src/sass/partials/_style.sass */
+/* line 6, /home/korvin/git/decor-svadby/test1/src/sass/partials/_style.sass */
 .page.style h1 {
   text-align: center; }
   @media (min-width: 767px) {
-    /* line 8, /home/korvin/git/test1/src/sass/partials/_style.sass */
+    /* line 8, /home/korvin/git/decor-svadby/test1/src/sass/partials/_style.sass */
     .page.style h1 span {
       padding: 2.3rem 3.8rem; }
-      /* line 11, /home/korvin/git/test1/src/sass/partials/_style.sass */
+      /* line 11, /home/korvin/git/decor-svadby/test1/src/sass/partials/_style.sass */
       .page.style h1 span:before {
         content: '';
         background-size: cover;
@@ -617,7 +617,7 @@ table.doc-list > tbody > tr > td, table.doc-list > thead > tr > th {
         height: 7rem;
         background: url("/images/style-title-left.svg") no-repeat 0 0;
         left: 0; }
-      /* line 15, /home/korvin/git/test1/src/sass/partials/_style.sass */
+      /* line 15, /home/korvin/git/decor-svadby/test1/src/sass/partials/_style.sass */
       .page.style h1 span:after {
         content: '';
         background-size: cover;
@@ -631,15 +631,15 @@ table.doc-list > tbody > tr > td, table.doc-list > thead > tr > th {
         background: url("/images/style-title-right.svg") no-repeat 0 0;
         right: 0; } }
 
-/* line 19, /home/korvin/git/test1/src/sass/partials/_style.sass */
+/* line 19, /home/korvin/git/decor-svadby/test1/src/sass/partials/_style.sass */
 .page.style h2 {
   text-align: center; }
   @media (min-width: 767px) {
-    /* line 21, /home/korvin/git/test1/src/sass/partials/_style.sass */
+    /* line 21, /home/korvin/git/decor-svadby/test1/src/sass/partials/_style.sass */
     .page.style h2 span {
       padding: 2.2rem;
       width: 8.5rem; }
-      /* line 25, /home/korvin/git/test1/src/sass/partials/_style.sass */
+      /* line 25, /home/korvin/git/decor-svadby/test1/src/sass/partials/_style.sass */
       .page.style h2 span:before {
         content: '';
         background-size: cover;
@@ -652,7 +652,7 @@ table.doc-list > tbody > tr > td, table.doc-list > thead > tr > th {
         height: 6rem;
         background: url("/images/style-subtitle-left.svg") no-repeat 0 0;
         left: 0; }
-      /* line 29, /home/korvin/git/test1/src/sass/partials/_style.sass */
+      /* line 29, /home/korvin/git/decor-svadby/test1/src/sass/partials/_style.sass */
       .page.style h2 span:after {
         content: '';
         background-size: cover;
@@ -666,11 +666,11 @@ table.doc-list > tbody > tr > td, table.doc-list > thead > tr > th {
         background: url("/images/style-subtitle-right.svg") no-repeat 0 0;
         right: 0; } }
 
-/* line 33, /home/korvin/git/test1/src/sass/partials/_style.sass */
+/* line 33, /home/korvin/git/decor-svadby/test1/src/sass/partials/_style.sass */
 .page.style .desc {
   text-align: justify; }
   @media (max-width: 767px) {
-    /* line 33, /home/korvin/git/test1/src/sass/partials/_style.sass */
+    /* line 33, /home/korvin/git/decor-svadby/test1/src/sass/partials/_style.sass */
     .page.style .desc {
       -webkit-box-sizing: border-box;
       box-sizing: border-box;
@@ -679,7 +679,7 @@ table.doc-list > tbody > tr > td, table.doc-list > thead > tr > th {
       padding-left: 2.08333%;
       padding-right: 2.08333%; } }
   @media (min-width: 767px) {
-    /* line 33, /home/korvin/git/test1/src/sass/partials/_style.sass */
+    /* line 33, /home/korvin/git/decor-svadby/test1/src/sass/partials/_style.sass */
     .page.style .desc {
       -webkit-box-sizing: border-box;
       box-sizing: border-box;
@@ -689,7 +689,7 @@ table.doc-list > tbody > tr > td, table.doc-list > thead > tr > th {
       padding-right: 2.08333%;
       margin-left: 25%; } }
   @media (min-width: 992px) {
-    /* line 33, /home/korvin/git/test1/src/sass/partials/_style.sass */
+    /* line 33, /home/korvin/git/decor-svadby/test1/src/sass/partials/_style.sass */
     .page.style .desc {
       -webkit-box-sizing: border-box;
       box-sizing: border-box;
@@ -700,7 +700,7 @@ table.doc-list > tbody > tr > td, table.doc-list > thead > tr > th {
       margin-left: 33.33333%; } }
 
 @media (max-width: 767px) {
-  /* line 44, /home/korvin/git/test1/src/sass/partials/_style.sass */
+  /* line 44, /home/korvin/git/decor-svadby/test1/src/sass/partials/_style.sass */
   .page.style .row .col {
     -webkit-box-sizing: border-box;
     box-sizing: border-box;
@@ -710,7 +710,7 @@ table.doc-list > tbody > tr > td, table.doc-list > thead > tr > th {
     padding-right: 2.08333%; } }
 
 @media (min-width: 767px) {
-  /* line 44, /home/korvin/git/test1/src/sass/partials/_style.sass */
+  /* line 44, /home/korvin/git/decor-svadby/test1/src/sass/partials/_style.sass */
   .page.style .row .col {
     -webkit-box-sizing: border-box;
     box-sizing: border-box;
@@ -720,7 +720,7 @@ table.doc-list > tbody > tr > td, table.doc-list > thead > tr > th {
     padding-right: 2.08333%; } }
 
 @media (min-width: 992px) {
-  /* line 44, /home/korvin/git/test1/src/sass/partials/_style.sass */
+  /* line 44, /home/korvin/git/decor-svadby/test1/src/sass/partials/_style.sass */
   .page.style .row .col {
     -webkit-box-sizing: border-box;
     box-sizing: border-box;
@@ -730,18 +730,18 @@ table.doc-list > tbody > tr > td, table.doc-list > thead > tr > th {
     padding-right: 2.08333%;
     margin-left: 8.33333%; } }
 
-/* line 52, /home/korvin/git/test1/src/sass/partials/_style.sass */
+/* line 52, /home/korvin/git/decor-svadby/test1/src/sass/partials/_style.sass */
 .page.style p {
   line-height: 1.5;
   font-size: 1.2rem;
   text-align: justify; }
 
 @media (min-width: 767px) {
-  /* line 3, /home/korvin/git/test1/src/sass/partials/_element.sass */
+  /* line 3, /home/korvin/git/decor-svadby/test1/src/sass/partials/_element.sass */
   .page.element .container {
     margin-top: -2rem; } }
 
-/* line 6, /home/korvin/git/test1/src/sass/partials/_element.sass */
+/* line 6, /home/korvin/git/decor-svadby/test1/src/sass/partials/_element.sass */
 .page.element .desc {
   text-align: justify;
   text-align--moz-box-sizing: border-box;
@@ -753,7 +753,7 @@ table.doc-list > tbody > tr > td, table.doc-list > thead > tr > th {
   text-align-padding-right: 2.08333%; }
 
 @media (max-width: 767px) {
-  /* line 10, /home/korvin/git/test1/src/sass/partials/_element.sass */
+  /* line 10, /home/korvin/git/decor-svadby/test1/src/sass/partials/_element.sass */
   .page.element .row .col {
     -webkit-box-sizing: border-box;
     box-sizing: border-box;
@@ -763,7 +763,7 @@ table.doc-list > tbody > tr > td, table.doc-list > thead > tr > th {
     padding-right: 2.08333%; } }
 
 @media (min-width: 767px) {
-  /* line 10, /home/korvin/git/test1/src/sass/partials/_element.sass */
+  /* line 10, /home/korvin/git/decor-svadby/test1/src/sass/partials/_element.sass */
   .page.element .row .col {
     -webkit-box-sizing: border-box;
     box-sizing: border-box;
@@ -773,7 +773,7 @@ table.doc-list > tbody > tr > td, table.doc-list > thead > tr > th {
     padding-right: 2.08333%; } }
 
 @media (min-width: 992px) {
-  /* line 10, /home/korvin/git/test1/src/sass/partials/_element.sass */
+  /* line 10, /home/korvin/git/decor-svadby/test1/src/sass/partials/_element.sass */
   .page.element .row .col {
     -webkit-box-sizing: border-box;
     box-sizing: border-box;
@@ -783,38 +783,38 @@ table.doc-list > tbody > tr > td, table.doc-list > thead > tr > th {
     padding-right: 2.08333%;
     margin-left: 8.33333%; } }
 
-/* line 18, /home/korvin/git/test1/src/sass/partials/_element.sass */
+/* line 18, /home/korvin/git/decor-svadby/test1/src/sass/partials/_element.sass */
 .page.element p {
   line-height: 1.5;
   font-size: 1.2rem;
   text-align: justify; }
 
 @media (min-width: 767px) {
-  /* line 2, /home/korvin/git/test1/src/sass/partials/_color.sass */
+  /* line 2, /home/korvin/git/decor-svadby/test1/src/sass/partials/_color.sass */
   .page.color .container {
     margin-top: -2rem; } }
 
-/* line 6, /home/korvin/git/test1/src/sass/partials/_color.sass */
+/* line 6, /home/korvin/git/decor-svadby/test1/src/sass/partials/_color.sass */
 .page.color h3 {
   text-align: center; }
 
-/* line 8, /home/korvin/git/test1/src/sass/partials/_color.sass */
+/* line 8, /home/korvin/git/decor-svadby/test1/src/sass/partials/_color.sass */
 .page.color h4 {
   line-height: 1.5;
   color: #98669B; }
 
-/* line 12, /home/korvin/git/test1/src/sass/partials/_color.sass */
+/* line 12, /home/korvin/git/decor-svadby/test1/src/sass/partials/_color.sass */
 .page.color p {
   font-size: 1.2rem;
   line-height: 1.5;
   text-align: justify; }
 
 @media (min-width: 767px) {
-  /* line 3, /home/korvin/git/test1/src/sass/partials/_zone.sass */
+  /* line 3, /home/korvin/git/decor-svadby/test1/src/sass/partials/_zone.sass */
   .page.zone .container {
     margin-top: -2rem; } }
 
-/* line 6, /home/korvin/git/test1/src/sass/partials/_zone.sass */
+/* line 6, /home/korvin/git/decor-svadby/test1/src/sass/partials/_zone.sass */
 .page.zone .desc {
   text-align: justify;
   text-align--moz-box-sizing: border-box;
@@ -826,7 +826,7 @@ table.doc-list > tbody > tr > td, table.doc-list > thead > tr > th {
   text-align-padding-right: 2.08333%; }
 
 @media (max-width: 767px) {
-  /* line 10, /home/korvin/git/test1/src/sass/partials/_zone.sass */
+  /* line 10, /home/korvin/git/decor-svadby/test1/src/sass/partials/_zone.sass */
   .page.zone .row .col {
     -webkit-box-sizing: border-box;
     box-sizing: border-box;
@@ -836,7 +836,7 @@ table.doc-list > tbody > tr > td, table.doc-list > thead > tr > th {
     padding-right: 2.08333%; } }
 
 @media (min-width: 767px) {
-  /* line 10, /home/korvin/git/test1/src/sass/partials/_zone.sass */
+  /* line 10, /home/korvin/git/decor-svadby/test1/src/sass/partials/_zone.sass */
   .page.zone .row .col {
     -webkit-box-sizing: border-box;
     box-sizing: border-box;
@@ -846,7 +846,7 @@ table.doc-list > tbody > tr > td, table.doc-list > thead > tr > th {
     padding-right: 2.08333%; } }
 
 @media (min-width: 992px) {
-  /* line 10, /home/korvin/git/test1/src/sass/partials/_zone.sass */
+  /* line 10, /home/korvin/git/decor-svadby/test1/src/sass/partials/_zone.sass */
   .page.zone .row .col {
     -webkit-box-sizing: border-box;
     box-sizing: border-box;
@@ -856,26 +856,26 @@ table.doc-list > tbody > tr > td, table.doc-list > thead > tr > th {
     padding-right: 2.08333%;
     margin-left: 8.33333%; } }
 
-/* line 18, /home/korvin/git/test1/src/sass/partials/_zone.sass */
+/* line 18, /home/korvin/git/decor-svadby/test1/src/sass/partials/_zone.sass */
 .page.zone p {
   line-height: 1.5;
   font-size: 1.2rem;
   text-align: justify; }
 
 @media (min-width: 767px) {
-  /* line 2, /home/korvin/git/test1/src/sass/partials/_contact.sass */
+  /* line 2, /home/korvin/git/decor-svadby/test1/src/sass/partials/_contact.sass */
   .page.contact .container {
     margin-top: -2rem; } }
 
-/* line 5, /home/korvin/git/test1/src/sass/partials/_contact.sass */
+/* line 5, /home/korvin/git/decor-svadby/test1/src/sass/partials/_contact.sass */
 .page.contact h1 {
   text-align: center;
   margin-bottom: 3rem; }
   @media (min-width: 767px) {
-    /* line 8, /home/korvin/git/test1/src/sass/partials/_contact.sass */
+    /* line 8, /home/korvin/git/decor-svadby/test1/src/sass/partials/_contact.sass */
     .page.contact h1 span {
       padding: 2.3rem 3.8rem; }
-      /* line 11, /home/korvin/git/test1/src/sass/partials/_contact.sass */
+      /* line 11, /home/korvin/git/decor-svadby/test1/src/sass/partials/_contact.sass */
       .page.contact h1 span:before {
         content: '';
         background-size: cover;
@@ -888,7 +888,7 @@ table.doc-list > tbody > tr > td, table.doc-list > thead > tr > th {
         height: 7rem;
         background: url("/images/style-subtitle-left.svg") no-repeat 0 0;
         left: 0; }
-      /* line 15, /home/korvin/git/test1/src/sass/partials/_contact.sass */
+      /* line 15, /home/korvin/git/decor-svadby/test1/src/sass/partials/_contact.sass */
       .page.contact h1 span:after {
         content: '';
         background-size: cover;
@@ -902,15 +902,15 @@ table.doc-list > tbody > tr > td, table.doc-list > thead > tr > th {
         background: url("/images/style-subtitle-right.svg") no-repeat 0 0;
         right: -10; } }
 
-/* line 19, /home/korvin/git/test1/src/sass/partials/_contact.sass */
+/* line 19, /home/korvin/git/decor-svadby/test1/src/sass/partials/_contact.sass */
 .page.contact h2 {
   text-align: center; }
   @media (min-width: 767px) {
-    /* line 21, /home/korvin/git/test1/src/sass/partials/_contact.sass */
+    /* line 21, /home/korvin/git/decor-svadby/test1/src/sass/partials/_contact.sass */
     .page.contact h2 span {
       padding: 2.2rem;
       width: 8.5rem; }
-      /* line 25, /home/korvin/git/test1/src/sass/partials/_contact.sass */
+      /* line 25, /home/korvin/git/decor-svadby/test1/src/sass/partials/_contact.sass */
       .page.contact h2 span:before {
         content: '';
         background-size: cover;
@@ -923,7 +923,7 @@ table.doc-list > tbody > tr > td, table.doc-list > thead > tr > th {
         height: 6rem;
         background: url("/images/style-subtitle-left.svg") no-repeat 0 0;
         left: 0; }
-      /* line 29, /home/korvin/git/test1/src/sass/partials/_contact.sass */
+      /* line 29, /home/korvin/git/decor-svadby/test1/src/sass/partials/_contact.sass */
       .page.contact h2 span:after {
         content: '';
         background-size: cover;
@@ -937,11 +937,11 @@ table.doc-list > tbody > tr > td, table.doc-list > thead > tr > th {
         background: url("/images/style-subtitle-right.svg") no-repeat 0 0;
         right: 0; } }
 
-/* line 33, /home/korvin/git/test1/src/sass/partials/_contact.sass */
+/* line 33, /home/korvin/git/decor-svadby/test1/src/sass/partials/_contact.sass */
 .page.contact .desc {
   text-align: center; }
   @media (max-width: 767px) {
-    /* line 33, /home/korvin/git/test1/src/sass/partials/_contact.sass */
+    /* line 33, /home/korvin/git/decor-svadby/test1/src/sass/partials/_contact.sass */
     .page.contact .desc {
       -webkit-box-sizing: border-box;
       box-sizing: border-box;
@@ -950,7 +950,7 @@ table.doc-list > tbody > tr > td, table.doc-list > thead > tr > th {
       padding-left: 2.08333%;
       padding-right: 2.08333%; } }
   @media (min-width: 767px) {
-    /* line 33, /home/korvin/git/test1/src/sass/partials/_contact.sass */
+    /* line 33, /home/korvin/git/decor-svadby/test1/src/sass/partials/_contact.sass */
     .page.contact .desc {
       -webkit-box-sizing: border-box;
       box-sizing: border-box;
@@ -960,7 +960,7 @@ table.doc-list > tbody > tr > td, table.doc-list > thead > tr > th {
       padding-right: 2.08333%;
       margin-left: 25%; } }
   @media (min-width: 992px) {
-    /* line 33, /home/korvin/git/test1/src/sass/partials/_contact.sass */
+    /* line 33, /home/korvin/git/decor-svadby/test1/src/sass/partials/_contact.sass */
     .page.contact .desc {
       -webkit-box-sizing: border-box;
       box-sizing: border-box;
@@ -971,7 +971,7 @@ table.doc-list > tbody > tr > td, table.doc-list > thead > tr > th {
       margin-left: 33.33333%; } }
 
 @media (max-width: 500px) {
-  /* line 44, /home/korvin/git/test1/src/sass/partials/_contact.sass */
+  /* line 44, /home/korvin/git/decor-svadby/test1/src/sass/partials/_contact.sass */
   .page.contact .row .col {
     -webkit-box-sizing: border-box;
     box-sizing: border-box;
@@ -981,7 +981,7 @@ table.doc-list > tbody > tr > td, table.doc-list > thead > tr > th {
     padding-right: 2.08333%; } }
 
 @media (min-width: 767px) {
-  /* line 44, /home/korvin/git/test1/src/sass/partials/_contact.sass */
+  /* line 44, /home/korvin/git/decor-svadby/test1/src/sass/partials/_contact.sass */
   .page.contact .row .col {
     -webkit-box-sizing: border-box;
     box-sizing: border-box;
@@ -991,7 +991,7 @@ table.doc-list > tbody > tr > td, table.doc-list > thead > tr > th {
     padding-right: 2.08333%; } }
 
 @media (min-width: 992px) {
-  /* line 44, /home/korvin/git/test1/src/sass/partials/_contact.sass */
+  /* line 44, /home/korvin/git/decor-svadby/test1/src/sass/partials/_contact.sass */
   .page.contact .row .col {
     -webkit-box-sizing: border-box;
     box-sizing: border-box;
@@ -1001,12 +1001,12 @@ table.doc-list > tbody > tr > td, table.doc-list > thead > tr > th {
     padding-right: 2.08333%;
     margin-left: 8.33333%; } }
 
-/* line 52, /home/korvin/git/test1/src/sass/partials/_contact.sass */
+/* line 52, /home/korvin/git/decor-svadby/test1/src/sass/partials/_contact.sass */
 p {
   text-align: center;
   line-height: 1.5; }
 
-/* line 56, /home/korvin/git/test1/src/sass/partials/_contact.sass */
+/* line 56, /home/korvin/git/decor-svadby/test1/src/sass/partials/_contact.sass */
 .button {
   display: inline-block;
   height: 30;
@@ -1018,18 +1018,18 @@ p {
           align-self: center; }
 
 @media (min-width: 767px) {
-  /* line 2, /home/korvin/git/test1/src/sass/partials/_order.sass */
+  /* line 2, /home/korvin/git/decor-svadby/test1/src/sass/partials/_order.sass */
   .page.order .container {
     margin-top: -2rem; } }
 
-/* line 5, /home/korvin/git/test1/src/sass/partials/_order.sass */
+/* line 5, /home/korvin/git/decor-svadby/test1/src/sass/partials/_order.sass */
 .page.order h1 {
   text-align: center; }
   @media (min-width: 767px) {
-    /* line 7, /home/korvin/git/test1/src/sass/partials/_order.sass */
+    /* line 7, /home/korvin/git/decor-svadby/test1/src/sass/partials/_order.sass */
     .page.order h1 span {
       padding: 2.3rem 3.8rem; }
-      /* line 10, /home/korvin/git/test1/src/sass/partials/_order.sass */
+      /* line 10, /home/korvin/git/decor-svadby/test1/src/sass/partials/_order.sass */
       .page.order h1 span:before {
         content: '';
         background-size: cover;
@@ -1042,7 +1042,7 @@ p {
         height: 7rem;
         background: url("/images/style-subtitle-left.svg") no-repeat 0 0;
         left: 0; }
-      /* line 14, /home/korvin/git/test1/src/sass/partials/_order.sass */
+      /* line 14, /home/korvin/git/decor-svadby/test1/src/sass/partials/_order.sass */
       .page.order h1 span:after {
         content: '';
         background-size: cover;
@@ -1056,15 +1056,15 @@ p {
         background: url("/images/style-subtitle-right.svg") no-repeat 0 0;
         right: 0; } }
 
-/* line 18, /home/korvin/git/test1/src/sass/partials/_order.sass */
+/* line 18, /home/korvin/git/decor-svadby/test1/src/sass/partials/_order.sass */
 .page.order h2 {
   text-align: center; }
   @media (min-width: 767px) {
-    /* line 20, /home/korvin/git/test1/src/sass/partials/_order.sass */
+    /* line 20, /home/korvin/git/decor-svadby/test1/src/sass/partials/_order.sass */
     .page.order h2 span {
       padding: 2.2rem;
       width: 8.5rem; }
-      /* line 24, /home/korvin/git/test1/src/sass/partials/_order.sass */
+      /* line 24, /home/korvin/git/decor-svadby/test1/src/sass/partials/_order.sass */
       .page.order h2 span:before {
         content: '';
         background-size: cover;
@@ -1077,7 +1077,7 @@ p {
         height: 6rem;
         background: url("/images/style-subtitle-left.svg") no-repeat 0 0;
         left: 0; }
-      /* line 28, /home/korvin/git/test1/src/sass/partials/_order.sass */
+      /* line 28, /home/korvin/git/decor-svadby/test1/src/sass/partials/_order.sass */
       .page.order h2 span:after {
         content: '';
         background-size: cover;
@@ -1091,11 +1091,11 @@ p {
         background: url("/images/style-subtitle-right.svg") no-repeat 0 0;
         right: 0; } }
 
-/* line 32, /home/korvin/git/test1/src/sass/partials/_order.sass */
+/* line 32, /home/korvin/git/decor-svadby/test1/src/sass/partials/_order.sass */
 .page.order .desc {
   text-align: center; }
   @media (max-width: 767px) {
-    /* line 32, /home/korvin/git/test1/src/sass/partials/_order.sass */
+    /* line 32, /home/korvin/git/decor-svadby/test1/src/sass/partials/_order.sass */
     .page.order .desc {
       -webkit-box-sizing: border-box;
       box-sizing: border-box;
@@ -1104,7 +1104,7 @@ p {
       padding-left: 2.08333%;
       padding-right: 2.08333%; } }
   @media (min-width: 767px) {
-    /* line 32, /home/korvin/git/test1/src/sass/partials/_order.sass */
+    /* line 32, /home/korvin/git/decor-svadby/test1/src/sass/partials/_order.sass */
     .page.order .desc {
       -webkit-box-sizing: border-box;
       box-sizing: border-box;
@@ -1114,7 +1114,7 @@ p {
       padding-right: 2.08333%;
       margin-left: 25%; } }
   @media (min-width: 992px) {
-    /* line 32, /home/korvin/git/test1/src/sass/partials/_order.sass */
+    /* line 32, /home/korvin/git/decor-svadby/test1/src/sass/partials/_order.sass */
     .page.order .desc {
       -webkit-box-sizing: border-box;
       box-sizing: border-box;
@@ -1125,7 +1125,7 @@ p {
       margin-left: 33.33333%; } }
 
 @media (max-width: 500px) {
-  /* line 43, /home/korvin/git/test1/src/sass/partials/_order.sass */
+  /* line 43, /home/korvin/git/decor-svadby/test1/src/sass/partials/_order.sass */
   .page.order .row .col {
     -webkit-box-sizing: border-box;
     box-sizing: border-box;
@@ -1135,7 +1135,7 @@ p {
     padding-right: 2.08333%; } }
 
 @media (min-width: 767px) {
-  /* line 43, /home/korvin/git/test1/src/sass/partials/_order.sass */
+  /* line 43, /home/korvin/git/decor-svadby/test1/src/sass/partials/_order.sass */
   .page.order .row .col {
     -webkit-box-sizing: border-box;
     box-sizing: border-box;
@@ -1145,7 +1145,7 @@ p {
     padding-right: 2.08333%; } }
 
 @media (min-width: 992px) {
-  /* line 43, /home/korvin/git/test1/src/sass/partials/_order.sass */
+  /* line 43, /home/korvin/git/decor-svadby/test1/src/sass/partials/_order.sass */
   .page.order .row .col {
     -webkit-box-sizing: border-box;
     box-sizing: border-box;
@@ -1155,24 +1155,24 @@ p {
     padding-right: 2.08333%;
     margin-left: 8.33333%; } }
 
-/* line 51, /home/korvin/git/test1/src/sass/partials/_order.sass */
+/* line 51, /home/korvin/git/decor-svadby/test1/src/sass/partials/_order.sass */
 p {
   text-align: center;
   line-height: 1.5; }
 
 @media (min-width: 767px) {
-  /* line 2, /home/korvin/git/test1/src/sass/partials/_about.sass */
+  /* line 2, /home/korvin/git/decor-svadby/test1/src/sass/partials/_about.sass */
   .page.about .container {
     margin-top: -2rem; } }
 
-/* line 5, /home/korvin/git/test1/src/sass/partials/_about.sass */
+/* line 5, /home/korvin/git/decor-svadby/test1/src/sass/partials/_about.sass */
 .page.about h1 {
   text-align: center; }
   @media (min-width: 767px) {
-    /* line 7, /home/korvin/git/test1/src/sass/partials/_about.sass */
+    /* line 7, /home/korvin/git/decor-svadby/test1/src/sass/partials/_about.sass */
     .page.about h1 span {
       padding: 2.3rem 3.8rem; }
-      /* line 10, /home/korvin/git/test1/src/sass/partials/_about.sass */
+      /* line 10, /home/korvin/git/decor-svadby/test1/src/sass/partials/_about.sass */
       .page.about h1 span:before {
         content: '';
         background-size: cover;
@@ -1185,7 +1185,7 @@ p {
         height: 7rem;
         background: url("/images/style-subtitle-left.svg") no-repeat 0 0;
         left: 0; }
-      /* line 14, /home/korvin/git/test1/src/sass/partials/_about.sass */
+      /* line 14, /home/korvin/git/decor-svadby/test1/src/sass/partials/_about.sass */
       .page.about h1 span:after {
         content: '';
         background-size: cover;
@@ -1199,15 +1199,15 @@ p {
         background: url("/images/style-subtitle-right.svg") no-repeat 0 0;
         right: -20; } }
 
-/* line 18, /home/korvin/git/test1/src/sass/partials/_about.sass */
+/* line 18, /home/korvin/git/decor-svadby/test1/src/sass/partials/_about.sass */
 .page.about h2 {
   text-align: center; }
   @media (min-width: 767px) {
-    /* line 20, /home/korvin/git/test1/src/sass/partials/_about.sass */
+    /* line 20, /home/korvin/git/decor-svadby/test1/src/sass/partials/_about.sass */
     .page.about h2 span {
       padding: 2.2rem;
       width: 8.5rem; }
-      /* line 24, /home/korvin/git/test1/src/sass/partials/_about.sass */
+      /* line 24, /home/korvin/git/decor-svadby/test1/src/sass/partials/_about.sass */
       .page.about h2 span:before {
         content: '';
         background-size: cover;
@@ -1220,7 +1220,7 @@ p {
         height: 6rem;
         background: url("/images/style-subtitle-left.svg") no-repeat 0 0;
         left: 0; }
-      /* line 28, /home/korvin/git/test1/src/sass/partials/_about.sass */
+      /* line 28, /home/korvin/git/decor-svadby/test1/src/sass/partials/_about.sass */
       .page.about h2 span:after {
         content: '';
         background-size: cover;
@@ -1234,12 +1234,12 @@ p {
         background: url("/images/style-subtitle-right.svg") no-repeat 0 0;
         right: 0; } }
 
-/* line 32, /home/korvin/git/test1/src/sass/partials/_about.sass */
+/* line 32, /home/korvin/git/decor-svadby/test1/src/sass/partials/_about.sass */
 .page.about .desc {
   text-align: center;
   background: url("/images/about-image.jpg") no-repeat 0 0; }
   @media (max-width: 767px) {
-    /* line 32, /home/korvin/git/test1/src/sass/partials/_about.sass */
+    /* line 32, /home/korvin/git/decor-svadby/test1/src/sass/partials/_about.sass */
     .page.about .desc {
       -webkit-box-sizing: border-box;
       box-sizing: border-box;
@@ -1248,7 +1248,7 @@ p {
       padding-left: 2.08333%;
       padding-right: 2.08333%; } }
   @media (min-width: 767px) {
-    /* line 32, /home/korvin/git/test1/src/sass/partials/_about.sass */
+    /* line 32, /home/korvin/git/decor-svadby/test1/src/sass/partials/_about.sass */
     .page.about .desc {
       -webkit-box-sizing: border-box;
       box-sizing: border-box;
@@ -1258,7 +1258,7 @@ p {
       padding-right: 2.08333%;
       margin-left: 25%; } }
   @media (min-width: 992px) {
-    /* line 32, /home/korvin/git/test1/src/sass/partials/_about.sass */
+    /* line 32, /home/korvin/git/decor-svadby/test1/src/sass/partials/_about.sass */
     .page.about .desc {
       -webkit-box-sizing: border-box;
       box-sizing: border-box;
@@ -1269,7 +1269,7 @@ p {
       margin-left: 33.33333%; } }
 
 @media (max-width: 767px) {
-  /* line 45, /home/korvin/git/test1/src/sass/partials/_about.sass */
+  /* line 45, /home/korvin/git/decor-svadby/test1/src/sass/partials/_about.sass */
   .page.about .row .col {
     -webkit-box-sizing: border-box;
     box-sizing: border-box;
@@ -1279,7 +1279,7 @@ p {
     padding-right: 2.08333%; } }
 
 @media (min-width: 767px) {
-  /* line 45, /home/korvin/git/test1/src/sass/partials/_about.sass */
+  /* line 45, /home/korvin/git/decor-svadby/test1/src/sass/partials/_about.sass */
   .page.about .row .col {
     -webkit-box-sizing: border-box;
     box-sizing: border-box;
@@ -1289,7 +1289,7 @@ p {
     padding-right: 2.08333%; } }
 
 @media (min-width: 992px) {
-  /* line 45, /home/korvin/git/test1/src/sass/partials/_about.sass */
+  /* line 45, /home/korvin/git/decor-svadby/test1/src/sass/partials/_about.sass */
   .page.about .row .col {
     -webkit-box-sizing: border-box;
     box-sizing: border-box;
@@ -1299,10 +1299,10 @@ p {
     padding-right: 2.08333%;
     margin-left: 8.33333%; } }
 
-/* line 54, /home/korvin/git/test1/src/sass/partials/_about.sass */
+/* line 54, /home/korvin/git/decor-svadby/test1/src/sass/partials/_about.sass */
 .page.about img {
   height: 55%; }
 
-/* line 56, /home/korvin/git/test1/src/sass/partials/_about.sass */
+/* line 56, /home/korvin/git/decor-svadby/test1/src/sass/partials/_about.sass */
 .page.about p {
   line-height: 1.5; }
